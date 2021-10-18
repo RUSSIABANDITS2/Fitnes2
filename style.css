@@ -14,26 +14,8 @@ border-radius: 100px
 .hairstyle{
 	position: absolute;top: 390px;left: 358px;
 }
-.sidebar{
-	position: absolute;
-width: 101px;
-height: 2404px;
-left: 0px;
-top: 0px;
 
-background: #FFFFFF;
-border: 1px solid #E8E7E7;
-box-sizing: border-box;
-box-shadow: 0px 1px 50px rgba(0, 0, 0, 0.08);
-}
-.Контакты{
-	position: absolute;
-width: 60px;
-height: 60px;
-left:15px;
-top: 90px;
 
-}
 .Sport{
 position: absolute;
 width: 370px;
@@ -50,8 +32,28 @@ border-radius: 58px;">
 .Таблица{
 		position: absolute;
 width: 860px;
-height: 1174px;
+height: 874px;
 top: 1200px;
+left: 200px;
+background: #303030;
+border: 1px solid #F1F1F1;
+border-radius: 100px
+}
+.Таблица2{
+	position: absolute;
+	width: 860px;
+height: 1574px;
+top: 2400px;
+left: 200px;
+background: #303030;
+border: 1px solid #F1F1F1;
+border-radius: 100px;
+}
+.Таблица3{
+			position: absolute;
+width: 860px;
+height: 674px;
+top: 4200px;
 left: 200px;
 background: #303030;
 border: 1px solid #F1F1F1;
